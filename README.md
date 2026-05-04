@@ -20,7 +20,14 @@
   - System Design
   - Advanced Backend Patterns
   - Performance Optimization
-
+---
+## Languages & Tools / Diller & Araçlar
+-JS ICON
+-JAVA
+-Docker
+-Git
+-C#
+-Python
 ---
 
 ## 🛠 Tech Stack
@@ -59,14 +66,13 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limtotage&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: (buraya ekle)
-- 📧 Email: (buraya ekle)
+- 💼 LinkedIn: https://www.linkedin.com/in/abdullah-yalim-906b822bb/ + icon
+- 📧 Email: abdullahltgyalim@gmail.com + icon
