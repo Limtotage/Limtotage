@@ -23,6 +23,21 @@
 
 ---
 
+## 🎮 Game Development
+
+### 🧱 Modular Grid System (Unity)
+- Advanced grid placement system with rotation support
+- Ghost preview system before placement
+- Dynamic occupancy tracking
+- Designed for scalable 3D building mechanics
+
+### 🎯 Core Gameplay Systems
+- Player movement & camera control
+- Health & damage interfaces
+- Clean and modular architecture
+
+---
+
 ## 🧰 Languages & Tools
 
 <p>
