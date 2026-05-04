@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 - 🎯 Backend Developer focused on scalable systems
-- 🏢 Internship experience at **Enoca**
+- 🏢 Internship experience at <b>Enoca</b>
 - ⚙️ Working with:
   - Java Spring Boot
   - .NET (C#)
@@ -20,21 +20,29 @@
   - System Design
   - Advanced Backend Patterns
   - Performance Optimization
+
 ---
-## Languages & Tools / Diller & Araçlar
--JS ICON
--JAVA
--Docker
--Git
--C#
--Python
+
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</p>
+
 ---
 
 ## 🛠 Tech Stack
 
 ### 🚀 Backend
-- Java (Spring Boot)
-- C# (.NET)
+- Java (Spring Boot)(Advanced)
+- C# (.NET)(Basic)
 
 ### 🗄 Database
 - PostgreSQL
@@ -66,6 +74,7 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=limtotage&theme=tokyonight" />
 </p>
@@ -74,5 +83,11 @@
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abdullah-yalim-906b822bb/ + icon
-- 📧 Email: abdullahltgyalim@gmail.com + icon
+<p>
+  <a href="https://www.linkedin.com/in/abdullah-yalim-906b822bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdullah%20Yalım-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:abdullahltgyalim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
