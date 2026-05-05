@@ -1,44 +1,75 @@
-<h1 align="center">Hi 👋, I'm Abdullah Yalım</h1>
-<h3 align="center">Backend Developer | .NET & Java Enthusiast</h3>
+<h1 align="center">Merhaba 👋 Ben Abdullah Yalım</h1>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Hakkımda
 
-- 🎯 Backend Developer focused on scalable systems
-- 🏢 Internship experience at <b>Enoca</b>
-- ⚙️ Working with:
-  - Java Spring Boot
-  - .NET (C#)
-  - PostgreSQL
-- 🔐 Interested in:
-  - Authentication (JWT)
-  - Clean Architecture
-  - Microservices
+Ben Abdullah Yalım.  
+Aşağıda, şu anda uğraştığım alanlar ve neler yaptığım hakkında bilgiler bulabilirsin.
 
-- 📚 Currently improving:
-  - System Design
-  - Advanced Backend Patterns
-  - Performance Optimization
+Genel olarak:
+- Backend Development
+- Game Development
+- Yapay Zeka
+
+alanlarında kendimi geliştiriyorum.
+
+Bazen de algoritma geliştirme ve soru çözümleri yapıp GitHub'a yüklüyorum.
+
+Şu dillerle aktif olarak uğraşıyorum:  
+C / C++ , C# , Java , Python , JavaScript
+
+---
+
+## ⚙️ Backend
+
+Backend tarafında daha çok:
+- Java Spring Boot
+- .NET (C#)
+- PostgreSQL
+
+kullanıyorum.
+
+Genelde ilgilendiğim konular:
+- JWT ile authentication
+- Clean architecture
+- Katmanlı yapı
+- Performans ve ölçeklenebilirlik
 
 ---
 
 ## 🎮 Game Development
 
-### 🧱 Modular Grid System (Unity)
-- Advanced grid placement system with rotation support
-- Ghost preview system before placement
-- Dynamic occupancy tracking
-- Designed for scalable 3D building mechanics
+Unity ile 2D ve 3D oyunlar geliştiriyorum.
 
-### 🎯 Core Gameplay Systems
-- Player movement & camera control
-- Health & damage interfaces
-- Clean and modular architecture
+Şu konular üzerine çalışıyorum:
+- Grid sistemleri
+- Trap & combat mekanikleri
+- Modüler oyun mimarisi
+- Player movement ve core gameplay
+
+Amacım oynanabilir ve keyifli sistemler kurmak.
 
 ---
 
-## 🧰 Languages & Tools
+## 🤖 Yapay Zeka
+
+Yapay zeka tarafında:
+- Model eğitimi
+- Görüntü işleme
+- NLP (metin sınıflandırma)
+
+üzerine çalışıyorum.
+
+Daha önce:
+- İşaret dili çeviren model
+- Metin sınıflandırma projeleri
+
+geliştirdim.
+
+---
+
+## 🧰 Kullandığım Teknolojiler
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
@@ -50,41 +81,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
-
----
-
-## 🛠 Tech Stack
-
-### 🚀 Backend
-- Java (Spring Boot)(Advanced)
-- C# (.NET)(Basic)
-
-### 🗄 Database
-- PostgreSQL
-- Basic SQL Optimization
-
-### 🔐 Authentication
-- JWT (JSON Web Token)
-
-### 🧩 Tools & Libraries
-- MapStruct
-- Lombok
-- Maven
-
----
-
-## 📂 Featured Projects
-
-### 🛒 E-Commerce Backend
-- Developed with Spring Boot
-- RESTful API design
-- JWT Authentication
-- Layered Architecture
-
-### 🎮 Game Backend Logic (Unity Support)
-- Player systems
-- Damage & health interfaces
-- Modular architecture
 
 ---
 
@@ -104,5 +100,11 @@
   </a>
   <a href="mailto:abdullahltgyalim@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://limtotage.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-Limtotage-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/Limtotage_YALIM" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-Limtotage_YALIM-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
   </a>
 </p>
